@@ -20,126 +20,129 @@ msgstr ""
 
 #: gwml2/api/authentication.py:48
 msgid "User account is disabled."
-msgstr ""
+msgstr "La cuenta del usuario está deshabilitada."
 
 #: gwml2/api/authentication.py:53
 msgid "Unable to log in with provided credentials."
-msgstr ""
+msgstr "No se puede iniciar sesión con las credenciales proporcionadas."
 
 #: gwml2/api/authentication.py:56
 msgid "User does not exist."
-msgstr ""
+msgstr "El usuario no existe"
 
 #: gwml2/authentication.py:21
 msgid "Invalid token."
-msgstr ""
+msgstr "Token no valido"
 
 #: gwml2/authentication.py:23
 msgid "No user found for the token."
-msgstr ""
+msgstr "No se encontró ningún usuario para el token."
 
 #: gwml2/authentication.py:26
 msgid "User inactive or deleted."
-msgstr ""
+msgstr "Usuario inactivo o eliminado"
 
 #: gwml2/forms/uploader/csv_well_form.py:33
 #: gwml2/templates/groundwater_form/general_information.html:9
 msgid "General information"
-msgstr ""
+msgstr "Información general"
 
 #: gwml2/forms/uploader/csv_well_form.py:39
 #: gwml2/templates/upload_well_csv.html:144
 msgid "Monitoring data"
-msgstr ""
+msgstr "Datos de monitoreo"
 
 #: gwml2/forms/well/document.py:16
 msgid "File type"
-msgstr ""
+msgstr "Tipo de archivo"
 
 #: gwml2/forms/well/document.py:17
 msgid "File size"
-msgstr ""
+msgstr "Tamaño de archivo"
 
 #: gwml2/forms/well/document.py:18
 msgid "Upload date"
-msgstr ""
+msgstr "Fecha de subida"
 
 #: gwml2/forms/well/general_information.py:17
 msgid "Latitude must be expressed in decimal degrees."
-msgstr ""
+msgstr "Latitud debe ser expresada en grados decimales"
 
 #: gwml2/forms/well/general_information.py:19
 msgid "Longitude must be expressed in decimal degrees."
-msgstr ""
+msgstr "Longitud debe ser expresada en grados decimales"
 
 #: gwml2/forms/well/measurement/base.py:43
 msgid "Date and Time"
-msgstr ""
+msgstr "Fecha y hora"
 
 #: gwml2/forms/well/well_metadata.py:17 gwml2/models/metadata/creation.py:16
 msgid "Created by"
-msgstr ""
+msgstr "Creado por"
 
 #: gwml2/forms/well/well_metadata.py:19 gwml2/models/metadata/creation.py:12
 msgid "Created at"
-msgstr ""
+msgstr "Creado en"
 
 #: gwml2/forms/well/well_metadata.py:21 gwml2/models/metadata/creation.py:24
 msgid "Last edited by"
-msgstr ""
+msgstr "Última edición por"
 
 #: gwml2/forms/well/well_metadata.py:23 gwml2/models/metadata/creation.py:20
 msgid "Last edited at"
-msgstr ""
+msgstr "Última edición en"
 
 #: gwml2/forms/well/well_metadata.py:26
 msgid "Restriction"
-msgstr ""
+msgstr "Restricción"
 
 #: gwml2/forms/well/well_metadata.py:28
 #: gwml2/models/metadata/license_metadata.py:28
 #: gwml2/templates/groundwater_form/management.html:39
 msgid "License"
-msgstr ""
+msgstr "Licencia"
 
 #: gwml2/forms/well/well_metadata.py:48
 msgid "Please enter 1 or more character"
-msgstr ""
+msgstr "Por favor ingrese 1 o más caracteres"
 
 #: gwml2/models/construction.py:12
 msgid "Pump installer"
-msgstr ""
+msgstr "Instalador de bombas"
 
 #: gwml2/models/construction.py:14
 msgid "Name of the company or person who installed the pump."
-msgstr ""
+msgstr "Nombre de la empresa o persona que instaló la bomba"
 
 #: gwml2/models/construction.py:17
 msgid "Pump description"
-msgstr ""
+msgstr "Descripción de la bomba"
 
 #: gwml2/models/construction.py:20
 msgid ""
 "Any relevant information on the pump (e.g. model, capacity, energy supply, "
 "depth)."
 msgstr ""
+"Cualquier información relevante de la bomba (por ejemplo: modelo, capacidad, "
+"proveedor de energía, profundidad)."
+
 
 #: gwml2/models/construction.py:38
 #: gwml2/templates/groundwater_form/well_chart.html:125
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: gwml2/models/construction.py:43 gwml2/models/drilling.py:54
 #: gwml2/models/drilling.py:94
 msgid "Reference elevation"
-msgstr ""
+msgstr "Elevación de referencia"
 
 #: gwml2/models/construction.py:48 gwml2/models/drilling.py:69
 #: gwml2/templates/groundwater_form/well_chart.html:133
 #: gwml2/templates/groundwater_form/well_chart.html:154
 #: gwml2/templates/groundwater_form/well_chart.html:166
 msgid "Material"
-msgstr ""
+msgstr "Material"
 
 #: gwml2/models/construction.py:52 gwml2/models/document.py:20
 #: gwml2/models/drilling.py:102 gwml2/models/general_information.py:62
